@@ -8,7 +8,6 @@
   ],
   "browser_action": {
     "default_icon": "hello-16.png",
-    "default_popup": "popup.html",
-    "default_title": "Make this page red"
+    "default_popup": "popup.html"
   }
 }
