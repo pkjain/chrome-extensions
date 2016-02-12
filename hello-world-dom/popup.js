@@ -10,4 +10,3 @@ chrome.tabs.query({active: true}, function(tabs) {
     code: 'document.querySelector("h1").textContent'
   }, display_h1);
 });
-
